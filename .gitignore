@@ -1,4 +1,7 @@
 node_modules
 # Keep environment variables out of version control
 .env
-.log
+# Log files
+*.log
+combined.log
+error.log
