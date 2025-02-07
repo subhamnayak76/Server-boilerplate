@@ -1,0 +1,34 @@
+2025-02-07 21:15:46 info: Server is running on port 3000
+2025-02-07 21:15:55 info: Server is running on port 3000
+2025-02-07 21:16:13 info: Server is running on port 3000
+2025-02-07 21:17:21 info: Server is running on port 3000
+2025-02-07 21:17:23 info: Server is running on port 3000
+2025-02-07 21:17:39 info: Fetching all users
+2025-02-07 21:17:43 error: Error fetching users:
+2025-02-07 21:20:03 info: Server is running on port 3000
+2025-02-07 21:20:05 info: Server is running on port 3000
+2025-02-07 21:20:08 info: Server is running on port 3000
+2025-02-07 21:20:16 info: [GET] Fetching all users
+2025-02-07 21:20:20 error: [GET] Error fetching users:
+2025-02-07 21:20:58 info: Server is running on port 3000
+2025-02-07 21:21:06 info: Server is running on port 3000
+2025-02-07 21:21:13 info: Server is running on port 3000
+2025-02-07 21:21:20 info: [GET] Fetching all users
+2025-02-07 21:21:20 error: [GET] Error fetching users:
+2025-02-07 21:21:42 info: Server is running on port 3000
+2025-02-07 21:21:53 info: [GET] Fetching all users
+2025-02-07 21:54:13 info: Server is running on port 3000
+2025-02-07 21:54:48 info: Server is running on port 3000
+2025-02-07 21:54:54 info: [GET] Fetching all users
+2025-02-07 21:55:51 info: Server is running on port 3000
+2025-02-07 21:56:26 info: Server is running on port 3000
+2025-02-07 21:57:06 info: Accessing route: /api/users [GET]
+2025-02-07 21:57:06 info: [GET] Fetching all users
+2025-02-07 21:58:07 info: Server is running on port 3000
+2025-02-07 21:58:14 info: Server is running on port 3000
+2025-02-07 21:58:24 info: Server is running on port 3000
+2025-02-07 21:58:28 info: Accessing route: /api/users [GET]
+2025-02-07 21:58:28 info: [GET] Fetching all users
+2025-02-07 22:02:14 info: Server is running on port 3000
+2025-02-07 22:03:29 info: Accessing route: /api/users/details [GET]
+2025-02-07 22:03:29 info: [GET] Fetching all users
